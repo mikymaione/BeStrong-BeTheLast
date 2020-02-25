@@ -23,7 +23,7 @@ In the game you can play against AI or against friends in a local multiplayer.
 3. CPU with SSE2 instruction set support
 
 ## Download
-http://www.maionemiky.it/public/BSBTL/BeStrongBeTheLast.zip
+http://www.maionemiky.it/BSBTL.shtml
 
 ## IDE
 1. Visual Studio 2017 (http://visualstudio.microsoft.com)
